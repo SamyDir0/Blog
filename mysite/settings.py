@@ -26,7 +26,7 @@ SECRET_KEY = '*__cm8q$_-8isuhqamm+921(&^rkj4py(kiqytc_(20#-h(@e6'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['priyaria.herokuapp.com']
+ALLOWED_HOSTS = ['&']
 
 
 # Application definition
